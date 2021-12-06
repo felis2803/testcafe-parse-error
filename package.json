@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-parse-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felis2803/testcafe-parse-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felis2803/testcafe-parse-error/issues"
+  },
+  "homepage": "https://github.com/felis2803/testcafe-parse-error#readme",
+  "dependencies": {
+    "testcafe": "^1.17.1"
+  }
+}
